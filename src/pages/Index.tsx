@@ -141,7 +141,7 @@ const Index = () => {
                   textShadow: '0 0 20px #ff0000',
                   willChange: 'transform'
                 }}>
-              MOTM OF THE MONTH!
+              MOTM!
             </h2>
             <img 
               src={motmSideImage} 
